@@ -77,12 +77,12 @@ Sprint | Previsão | Status| Histórico|
  # Regras de Negócio
 
 Requisitos funcionais 
-- Dashboard
-- Construção de uma série histórica em formato acessível que agregue os dados de movimentação de 2014 a 2023
-- Interface em BI para avaliação de indicadores portuários (tempos de processamento e espera, produção dos shiploaders em termos de processamento por hora)
-- Modelo de projeção de tendência da produtividade dos shiploaders
-- Compartilhamento do código pelo Google COLAB
-- Rankeamento dos portos por meio da aplicação do DEA
+
+- Criar uma série histórica em formato acessível que agregue os dados de movimentação de 2014 a 2023;
+- Desenvolver um dashboard no Power BI para avaliação de indicadores portuários; 
+- Modelo de projeção de tendência da produtividade dos shiploaders;
+- Compartilhamento do código pelo Google COLAB;
+- Rankeamento dos portos por meio da aplicação do DEA;
   
 Requisitos não funcionais
 - Usar tecnologias específicas/apoio/tecnológicas

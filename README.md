@@ -8,7 +8,7 @@
 * [Projeto](#Projeto)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#Objetivo-do-Projeto)
-* [Resultado esperado](#Resultado-esperado) 
+* [Resultado Esperado](#Resultado-Esperado) 
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do Produto](#Backlog-do-Produto)
 * [Tecnologias Específicas/Apoio](#Tecnologias-Específicas/Apoio)
@@ -31,17 +31,13 @@ Trata-se de um projeto pedagógico alicerçado na Metodologia de Aprendizagem po
 |  Scrum Team | <a href="https://cdn.discordapp.com/attachments/1287906530921807933/1287915025260085270/Lucas.jpg?ex=66f49956&is=66f347d6&hm=9eca9714d7341822bf38bf081c71274941070d7b1a6af0b33b8f98a3cd938b04&"><img src="https://cdn.discordapp.com/attachments/1287906530921807933/1287915025260085270/Lucas.jpg?ex=66f49956&is=66f347d6&hm=9eca9714d7341822bf38bf081c71274941070d7b1a6af0b33b8f98a3cd938b04&" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p> Lucas </p>   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-monti-peres-100109207/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasMontiPeres)          |
 
 
-# Projeto 
 
-# Objetivo 
+# Objetivo do Projeto
 O objetivo deste projeto é desenvolver uma grande base de dados(Big Data) com informações detalhadas sobre atracações e movimentações de carga nos portos marítimos brasileiros. A proposta visa centralizar, consolidar e estruturar dados que permitirão a análise de indicadores críticos, como a produtividade da operação portuária, a eficiência dos terminais e o tempo de duração das operações. O projeto busca fornecer subsídios para otimizar o planejamento logístico portuário, melhorar a tomada de decisões estratégicas e elevar o nível de competitividade dos portos brasileiros, a partir da aplicação de técnicas de engenharia de dados e logística portuária.
 
-# Justificativa do projeto
-O setor portuário desempenha um papel essencial na economia brasileira, sendo responsável pela movimentação de uma grande parcela das exportações e importações do país. No entanto, a falta de dados integrados e organizados de maneira eficiente sobre as operações portuárias representa um entrave para o aprimoramento da gestão logística e para a maximização da eficiência operacional. Ao criar uma base de dados centralizada e de grande escala, será possível realizar análises sobre indicadores-chave, como a produtividade média das operações por atracação e terminal, além de identificar gargalos operacionais.
 
-
-# Resultado esperado
-Espera-se que a implementação desta base de dados permita a realização de análises profundas e precisas sobre o desempenho operacional dos portos brasileiros, levando a:
+# Resultado Esperado
+O resultado esperado é a implementação desta base de dados permita a realização de análises profundas e precisas sobre o desempenho operacional dos portos brasileiros, levando a:
 
 1- Identificação de gargalos operacionais que impactam diretamente na produtividade portuária;
 
@@ -55,8 +51,6 @@ Esses resultados, no longo prazo, podem promover maior eficiência no comércio 
 
 # Cronograma das Sprints
 
-## Cronograma
-
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 30/08/2024| concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
@@ -68,14 +62,19 @@ Sprint | Previsão | Status| Histórico|
 
   
 
-# Backlog
+# Backlog do Produto
 ![sprint backlog](https://cdn.discordapp.com/attachments/1287906530921807933/1288288209326837781/09894e0a-847e-4cfb-90db-a091cba29dc8.jpg?ex=66f4a364&is=66f351e4&hm=d92c7ebd6dcd8d4b0a391967f858075bb2071f67ad8d256cc54bdfb3178225a6&)
 
 
-# Burndown
-![sprint backlog](https://github.com/ComexSmart/ComexSmart/blob/main/imagem/Burn.png?raw=true)
+# Tecnologias Específicas/Apoio
+- 5W2H
+- GitHub
+- Jira Software
+- Power BI
+- Python
+- Linguagem R
 
-Regras de Negócio
+ # Regras de Negócio
 - 
 
 Requisitos funcionais 

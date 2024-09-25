@@ -95,33 +95,28 @@ Requisitos não funcionais
 - [x] Backlog do produto;
 - [x] GitHub estruturado com link disponibilizado;
 - [x] Jira Software estruturado;
-- [x] Atribuição das atividades para a Sprint 1.
+- [x] Atribuição das atividades para a Sprint 1. Captura de dados no site da ANTAQ
+- [x] Captura de dados no site da ANTAQ
 
 ## Sprint 1. Desenvolvimento do Projeto
 - [ ] Fazer o relacionamento dos dados no Power BI;
 - [ ] Pesquisa de apoio para contextualizar o projeto;
 - [ ] Atualizar o Git Hub de acordo com o feedback do cliente;
 - [ ] Fazer relatório técnico da sprint 1;
-- [ ] Projetar dashboard teste (dados gerais);
 - [ ] Gerenciar o 5W2H;
-- [ ] 
+- [ ] Tratamento na base de dados capturada no ANTAQ;
 
-## Resultado
-
-<img width=100% src="https://user-images.githubusercontent.com/142995260/283203023-721d1212-9feb-4766-b3e5-ef7d3f43cc01.mp4">
-
-      
+    
 ## Sprint 2 . Implementação
-- [ ] Pesquisar conceito da geografia dos Fluxos;
-- [ ] Dash teste tela de SP;
-- [ ] Pesquisar dados de longitudade e latitude das cidades que compõem o Estado de SP;
+- [ ] Desenvolver um tela no Power BI Prancha média (Ton/hora),
+- [ ] Documentar os códigos (Google Colab);
 - [ ] Fazer relatório técnico da sprint 2;
 - [ ] Gerenciar o 5W2H;
 - [ ] Dashboard de probabilidades.
       
 ## Sprint 3. Operacionalização
-- [ ] Terminar as 5 telas requisitadas;
-- [ ] Apresentar os dados do desempenho de SJC e carga específica;
+- [ ] Finalizar o Dashboard;
+- [ ] Aplicar o DEA (Data Envelopment Analysis);
 - [ ] Fazer relatório técnico da sprint 3;
 - [ ] Gerenciar o 5W2H;
 

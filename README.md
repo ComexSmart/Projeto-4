@@ -72,21 +72,24 @@ Sprint | Previsão | Status| Histórico|
 - Jira Software
 - Power BI
 - Python
-- Linguagem R
+- RStudio
 
  # Regras de Negócio
-- 
 
 Requisitos funcionais 
-- Dashboard   
-
+- Dashboard
+- Construção de uma série histórica em formato acessível que agregue os dados de movimentação de 2014 a 2023
+- Interface em BI para avaliação de indicadores portuários (tempos de processamento e espera, produção dos shiploaders em termos de processamento por hora)
+- Modelo de projeção de tendência da produtividade dos shiploaders
+- Compartilhamento do código pelo Google COLAB
+- Rankeamento dos portos por meio da aplicação do DEA
   
 Requisitos não funcionais
-- Power BI
+- Usar tecnologias específicas/apoio/tecnológicas
+- Metodologia ágil
 - Jira software
 - 5W2H
-- GitHub
-- Miro
+- Slack
 
 ## Sprint 0. Concepção
 - [x] Backlog do produto;

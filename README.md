@@ -98,13 +98,13 @@ Requisitos não funcionais
 - [x] Atribuição das atividades para a Sprint 1.
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [x] Fazer o relacionamento dos dados no Power BI;
-- [x] Pesquisa de apoio para contextualizar o projeto;
-- [x] Atualizar o Git Hub de acordo com o feedback do cliente;
-- [x] Fazer relatório técnico da sprint 1;
-- [x] Projetar dash teste (dados gerais);
-- [x] Gerenciar o 5W2H;
-- [x] Workshop de Power BI para nivelamento da equipe com a ferramenta.
+- [ ] Fazer o relacionamento dos dados no Power BI;
+- [ ] Pesquisa de apoio para contextualizar o projeto;
+- [ ] Atualizar o Git Hub de acordo com o feedback do cliente;
+- [ ] Fazer relatório técnico da sprint 1;
+- [ ] Projetar dashboard teste (dados gerais);
+- [ ] Gerenciar o 5W2H;
+- [ ] 
 
 ## Resultado
 
@@ -112,12 +112,12 @@ Requisitos não funcionais
 
       
 ## Sprint 2 . Implementação
-- [x] Pesquisar conceito da geografia dos Fluxos;
-- [x] Dash teste tela de SP;
-- [x] Pesquisar dados de longitudade e latitude das cidades que compõem o Estado de SP;
-- [x] Fazer relatório técnico da sprint 2;
-- [x] Gerenciar o 5W2H;
-- [x] Dashboard de probabilidades.
+- [ ] Pesquisar conceito da geografia dos Fluxos;
+- [ ] Dash teste tela de SP;
+- [ ] Pesquisar dados de longitudade e latitude das cidades que compõem o Estado de SP;
+- [ ] Fazer relatório técnico da sprint 2;
+- [ ] Gerenciar o 5W2H;
+- [ ] Dashboard de probabilidades.
       
 ## Sprint 3. Operacionalização
 - [ ] Terminar as 5 telas requisitadas;
@@ -136,9 +136,10 @@ Requisitos não funcionais
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Jira Software | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Power BI | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Miro| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Python | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | 5W2H| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | SWOT | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| RStudio | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
 

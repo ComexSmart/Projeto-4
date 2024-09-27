@@ -53,8 +53,8 @@ Esses resultados, no longo prazo, podem promover maior eficiência no comércio 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 30/08/2024| concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|00 | 27/09/2024| concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 30/08/2024| concluido| [Ver Relatório](https://github.com/user-attachments/files/17169059/Kick-off.API.4.pdf) | 
+|00 | 27/09/2024| concluido| [Ver Relatório](https://github.com/user-attachments/files/17169064/Relatorio.do.Projeto.Sprint.0.pdf) | 
 |01|  18/10/2024| a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02| 08/11/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 29/11/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
@@ -151,3 +151,8 @@ Requisitos não funcionais
 | Proatividade| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
+
+
+
+
+

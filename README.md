@@ -99,12 +99,12 @@ Requisitos não funcionais
 - [x] Captura de dados no site da ANTAQ
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [ ] Fazer o relacionamento dos dados no Power BI;
-- [ ] Pesquisa de apoio para contextualizar o projeto;
-- [ ] Atualizar o Git Hub de acordo com o feedback do cliente;
-- [ ] Fazer relatório técnico da sprint 1;
-- [ ] Gerenciar o 5W2H;
-- [ ] Tratamento na base de dados capturada no ANTAQ;
+- [x] Fazer o relacionamento dos dados no Power BI;
+- [x] Pesquisa de apoio para contextualizar o projeto;
+- [x] Atualizar o Git Hub de acordo com o feedback do cliente;
+- [x] Fazer relatório técnico da sprint 1;
+- [x] Gerenciar o 5W2H;
+- [x] Tratamento na base de dados capturada no ANTAQ;
 
     
 ## Sprint 2 . Implementação

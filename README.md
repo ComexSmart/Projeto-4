@@ -63,8 +63,8 @@ Sprint | Previsão | Status| Histórico|
   
 
 # Backlog do Produto
-![sprint backlog](https://cdn.discordapp.com/attachments/1287906530921807933/1288288209326837781/09894e0a-847e-4cfb-90db-a091cba29dc8.jpg?ex=66f4a364&is=66f351e4&hm=d92c7ebd6dcd8d4b0a391967f858075bb2071f67ad8d256cc54bdfb3178225a6&)
 
+![sprint backlog](https://github.com/user-attachments/assets/18e67e2f-56ca-46d0-a03e-1b9406731a41)
 
 # Tecnologias Específicas/Apoio
 - 5W2H
@@ -74,6 +74,12 @@ Sprint | Previsão | Status| Histórico|
 - Python
 - RStudio
 - Slack
+
+# Base de dados
+
+- Resultado da Tratamento em Python |[Ver Resultado](https://github.com/user-attachments/files/17536017/Merge_Base_final.pdf) 
+
+![Código final Merge Base](https://github.com/user-attachments/assets/0ab21a54-bd21-418a-90a9-90020b97a60f)
 
  # Regras de Negócio
 

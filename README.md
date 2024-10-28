@@ -73,6 +73,7 @@ Sprint | Previsão | Status| Histórico|
 - Power BI
 - Python
 - RStudio
+- Slack
 
  # Regras de Negócio
 

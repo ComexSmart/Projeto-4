@@ -79,6 +79,9 @@ Sprint | Previsão | Status| Histórico|
 
 ![Código final Merge Base](https://github.com/user-attachments/assets/0ab21a54-bd21-418a-90a9-90020b97a60f)
 
+![Dashboard](https://github.com/user-attachments/assets/7f567ca8-0406-4505-9387-2eab7ecae224)
+
+
  # Regras de Negócio
 
 Requisitos funcionais 

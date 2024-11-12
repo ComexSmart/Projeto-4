@@ -116,11 +116,11 @@ Requisitos não funcionais
 
     
 ## Sprint 2 . Implementação
-- [ ] Desenvolver um tela no Power BI Prancha média (Ton/hora),
-- [ ] Documentar os códigos (Google Colab);
-- [ ] Fazer relatório técnico da sprint 2;
-- [ ] Gerenciar o 5W2H;
-- [ ] Dashboard de probabilidades.
+- [x] Desenvolver um tela no Power BI Prancha média (Ton/hora),
+- [x] Documentar os códigos (Google Colab);
+- [x] Fazer relatório técnico da sprint 2;
+- [x] Gerenciar o 5W2H;
+- [x] Dashboard de probabilidades.
       
 ## Sprint 3. Operacionalização
 - [ ] Finalizar o Dashboard;

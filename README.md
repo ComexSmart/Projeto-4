@@ -82,7 +82,11 @@ Sprint | Previsão | Status| Histórico|
 
 ![Dashboard](https://github.com/user-attachments/assets/7f567ca8-0406-4505-9387-2eab7ecae224)
 
-![Código_de_Eficiência](https://github.com/user-attachments/assets/0fb9b08e-43c7-4876-b870-416a2d8c8cbf)
+
+
+https://github.com/user-attachments/assets/728b4cfd-7389-414d-820f-4d83c1ce0f8e
+
+
 
  # Regras de Negócio
 
@@ -163,16 +167,3 @@ Requisitos não funcionais
 
 
 </details>
-
-
-
-
-
-https://github.com/user-attachments/assets/d09febe5-463d-4f53-a38d-18bde0bb26be
-
-
-
-https://github.com/user-attachments/assets/0fb9b08e-43c7-4876-b870-416a2d8c8cbf
-
-
-

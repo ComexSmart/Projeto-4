@@ -82,6 +82,7 @@ Sprint | Previsão | Status| Histórico|
 
 ![Dashboard](https://github.com/user-attachments/assets/7f567ca8-0406-4505-9387-2eab7ecae224)
 
+![Código_de_Eficiência](https://github.com/user-attachments/assets/07574398-7bbb-4c63-a73a-008f06b609ca)
 
  # Regras de Negócio
 
@@ -124,10 +125,10 @@ Requisitos não funcionais
 - [x] Dashboard de probabilidades.
       
 ## Sprint 3. Operacionalização
-- [ ] Finalizar o Dashboard;
-- [ ] Aplicar o DEA (Data Envelopment Analysis);
-- [ ] Fazer relatório técnico da sprint 3;
-- [ ] Gerenciar o 5W2H;
+- [x] Finalizar o Dashboard;
+- [x] Aplicar o DEA (Data Envelopment Analysis);
+- [x] Fazer relatório técnico da sprint 3;
+- [x] Gerenciar o 5W2H;
 
 # Competências desenvolvidas
 

@@ -82,7 +82,7 @@ Sprint | Previsão | Status| Histórico|
 
 ![Dashboard](https://github.com/user-attachments/assets/7f567ca8-0406-4505-9387-2eab7ecae224)
 
-![Código_de_Eficiência](https://github.com/user-attachments/assets/07574398-7bbb-4c63-a73a-008f06b609ca)
+![Código_de_Eficiência](https://github.com/user-attachments/assets/0fb9b08e-43c7-4876-b870-416a2d8c8cbf)
 
  # Regras de Negócio
 
@@ -160,9 +160,19 @@ Requisitos não funcionais
 | Autonomia| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Proatividade| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
+
+
 </details>
 
 
+
+
+
+https://github.com/user-attachments/assets/d09febe5-463d-4f53-a38d-18bde0bb26be
+
+
+
+https://github.com/user-attachments/assets/0fb9b08e-43c7-4876-b870-416a2d8c8cbf
 
 
 

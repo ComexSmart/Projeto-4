@@ -57,9 +57,10 @@ Sprint | Previsão | Status| Histórico|
 |00 | 27/09/2024| concluido| [Ver Relatório](https://github.com/user-attachments/files/17169064/Relatorio.do.Projeto.Sprint.0.pdf) | 
 |01|  18/10/2024| concluido|[Ver Relatório](https://github.com/user-attachments/files/17546787/Relatorio.do.Projeto.Sprint.1.pdf) | 
 |02| 08/11/2024 | concluido|[Ver Relatório](https://github.com/user-attachments/files/17709635/Sprint_2.pdf) | 
-|03| 29/11/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|03| 29/11/2024 | concluído |[Ver Relatório](https://github.com/user-attachments/files/17951751/Relatorio.do.Projeto.Sprint.3.pdf)  | 
 |Feira de Soluções|12/12/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-[Sprint_2.pdf]()
+
+
 
 # Backlog do Produto
 
